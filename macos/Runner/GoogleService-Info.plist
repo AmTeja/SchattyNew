@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>879205408677-ti8q7ofout1gt5ud4p3dgljdr2ba5s1i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.879205408677-ti8q7ofout1gt5ud4p3dgljdr2ba5s1i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>879205408677-lqnr69rm5vtga576sajo7lkv50383m94.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgid1GAhGFUvRz7OdR7oOUIoN5FnCv0cI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>879205408677</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.schatty</string>
+	<key>PROJECT_ID</key>
+	<string>schaty-7b3c3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>schaty-7b3c3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:879205408677:ios:5d5eb1ef3d4743cbee924c</string>
+	<key>DATABASE_URL</key>
+	<string>https://schaty-7b3c3.firebaseio.com</string>
+</dict>
+</plist>
